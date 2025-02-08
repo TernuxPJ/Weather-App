@@ -6,11 +6,23 @@ This project is a simple graphical weather application built using Tkinter in Py
 
 **Features:**
 ✅ Real-time weather updates based on user input
+
+
 ✅ Displays temperature in Celsius
+
+
 ✅ Shows weather conditions like "clear sky", "cloudy", etc.
+
+
 ✅ Beautiful and user-friendly Tkinter GUI
+
+
 ✅ Stylish and interactive buttons
+
+
 ✅ Clear and engaging messages for weather information
+
+
 
 **Prerequisites:**
 To run this project, you need Python and the following libraries installed:
