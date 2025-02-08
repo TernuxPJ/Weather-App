@@ -5,6 +5,8 @@
 This project is a simple graphical weather application built using Tkinter in Python. It retrieves real-time weather data from the OpenWeatherMap API and displays it in a user-friendly interface. The app allows users to enter a city name and view detailed weather information, including temperature, humidity, weather conditions, and more.
 
 **Features:**
+
+
 ✅ Real-time weather updates based on user input
 
 
@@ -21,6 +23,7 @@ This project is a simple graphical weather application built using Tkinter in Py
 
 
 ✅ Clear and engaging messages for weather information
+
 
 
 
