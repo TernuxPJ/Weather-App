@@ -3,7 +3,7 @@ from tkinter import messagebox
 import requests
 from tkinter import Toplevel, Label, Button
 
-API_KEY = "3e048c850e7bcecc34437519ce82156a"
+API_KEY = "Your-API"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
 
 root = tk.Tk()
